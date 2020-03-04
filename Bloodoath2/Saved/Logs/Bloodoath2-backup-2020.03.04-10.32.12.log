@@ -1,0 +1,1011 @@
+﻿Log file open, 03/04/20 10:26:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Bloodoath2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-284401318) SRandInit(-284401317).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282633
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.589s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-MLI8V5C (169.254.233.59:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epicusername="the fony" -epicuserid=094fd40342bb405ba180082e54be1b92 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.03.04-15.26.38:423][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.04-15.26.38:423][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.04-15.26.38:585][  0]LogInit: Computer: DESKTOP-MLI8V5C
+[2020.03.04-15.26.38:585][  0]LogInit: User: anthony
+[2020.03.04-15.26.38:585][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.04-15.26.38:585][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.04-15.26.38:585][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.04-15.26.38:585][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.04-15.26.38:585][  0]LogMemory: Process Physical Memory: 274.48 MB used, 274.48 MB peak
+[2020.03.04-15.26.38:585][  0]LogMemory: Process Virtual Memory: 264.64 MB used, 264.64 MB peak
+[2020.03.04-15.26.38:585][  0]LogMemory: Physical Memory: 6945.38 MB used,  9317.83 MB free, 16263.20 MB total
+[2020.03.04-15.26.38:585][  0]LogMemory: Virtual Memory: 4778.80 MB used,  9317.83 MB free, 134217728.00 MB total
+[2020.03.04-15.26.38:612][  0]LogInit: Using OS detected language (en-US).
+[2020.03.04-15.26.38:612][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.04-15.26.38:615][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.04-15.26.39:048][  0]LogStreaming: Display: Took  0.437s to EndInitTextLocalization.
+[2020.03.04-15.26.39:048][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.04-15.26.39:126][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.04-15.26.39:126][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.04-15.26.39:354][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.04-15.26.39:443][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
+[2020.03.04-15.26.39:443][  0]LogD3D11RHI:       16257/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.04-15.26.39:470][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.04-15.26.39:470][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.04-15.26.39:472][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.04-15.26.39:472][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.04-15.26.39:472][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.04-15.26.39:500][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.04-15.26.39:500][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.04-15.26.39:500][  0]LogWindows: EnumDisplayDevices:
+[2020.03.04-15.26.39:501][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.04-15.26.39:501][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.04-15.26.39:501][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.04-15.26.39:501][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-15.26.39:501][  0]LogWindows:    4. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-15.26.39:502][  0]LogWindows:    5. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-15.26.39:502][  0]LogWindows:    6. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-15.26.39:502][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.04-15.26.39:502][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
+[2020.03.04-15.26.39:502][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.04-15.26.39:502][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.04-15.26.39:502][  0]LogRHI: Texture pool is 11379 MB (70% of 16257 MB)
+[2020.03.04-15.26.39:554][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.03.04-15.26.39:554][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.03.04-15.26.39:554][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.04-15.26.39:568][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.04-15.26.39:570][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (E:/unreal/BloodOath2/Bloodoath2/Intermediate/Shaders/WorkingDirectory/22048/).
+[2020.03.04-15.26.39:570][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anthony/AppData/Local/Temp/UnrealShaderWorkingDir/0F60220F45FFBB2FE0F06EA6D26FB620/'.
+[2020.03.04-15.26.39:804][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.04-15.26.39:819][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.04-15.26.39:834][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.04-15.26.39:847][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.04-15.26.39:861][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.04-15.26.39:876][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.04-15.26.39:889][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.04-15.26.39:903][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.04-15.26.39:910][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.04-15.26.39:926][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.03.04-15.26.39:940][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.03.04-15.26.39:955][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.03.04-15.26.39:970][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.03.04-15.26.39:987][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.03.04-15.26.40:001][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.03.04-15.26.40:032][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.03.04-15.26.40:032][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.03.04-15.26.40:051][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.04-15.26.40:055][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.04-15.26.40:094][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.04-15.26.40:108][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.04-15.26.40:120][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.04-15.26.40:133][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.04-15.26.40:145][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.04-15.26.40:158][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.04-15.26.40:158][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.04-15.26.40:282][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.04-15.26.40:282][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.04-15.26.40:282][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.04-15.26.41:087][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.04-15.26.41:160][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/anthony/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.03.04-15.26.41:160][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/anthony/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.03.04-15.26.41:160][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/unreal/BloodOath2/Bloodoath2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.04-15.26.41:160][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.04-15.26.41:160][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/unreal/BloodOath2/Bloodoath2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.04-15.26.41:160][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.04-15.26.41:178][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.04-15.26.41:190][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anthony/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.04-15.26.41:190][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.04-15.26.41:190][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.04-15.26.41:201][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.04-15.26.41:202][  0]LogSlate: Using Freetype 2.6.0
+[2020.03.04-15.26.41:202][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.04-15.26.41:202][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.04-15.26.41:329][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2020.03.04-15.26.41:777][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.04-15.26.41:989][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.04-15.26.41:992][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.04-15.26.41:992][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.04-15.26.41:992][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.04-15.26.41:992][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.03.04-15.26.41:993][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.03.04-15.26.42:034][  0]LogNetVersion: Bloodoath2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2885010656)
+[2020.03.04-15.26.44:009][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 1.465571 seconds
+[2020.03.04-15.26.44:022][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2020.03.04-15.26.44:022][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2020.03.04-15.26.44:022][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.04-15.26.46:146][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.04-15.26.46:557][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.04-15.26.47:003][  0]SourceControl: Source control is disabled
+[2020.03.04-15.26.47:003][  0]SourceControl: Source control is disabled
+[2020.03.04-15.26.47:023][  0]SourceControl: Source control is disabled
+[2020.03.04-15.26.47:042][  0]SourceControl: Source control is disabled
+[2020.03.04-15.26.47:693][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.04-15.26.48:211][  0]LogOcInput: OculusInput pre-init called
+[2020.03.04-15.26.48:356][  0]LogEngine: Initializing Engine...
+[2020.03.04-15.26.48:428][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.03.04-15.26.48:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.04-15.26.48:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.04-15.26.48:826][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.04-15.26.48:946][  0]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-15.26.49:003][  0]LogInit: FAudioDevice initialized.
+[2020.03.04-15.26.49:080][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/anthony/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.03.04-15.26.49:105][  0]LogInit: Texture streaming: Enabled
+[2020.03.04-15.26.49:134][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.04-15.26.49:159][  0]LogInit: Transaction tracking system initialized
+[2020.03.04-15.26.49:193][  0]BlueprintLog: New page: Editor Load
+[2020.03.04-15.26.49:383][  0]LocalizationService: Localization service is disabled
+[2020.03.04-15.26.49:690][  0]LogConsoleResponse: Display: 
+[2020.03.04-15.26.49:994][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.04-15.26.49:995][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.04-15.26.49:995][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.04-15.26.49:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.04-15.26.49:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.04-15.26.50:535][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/BloodOath2/Bloodoath2/Content/' took 0.01s
+[2020.03.04-15.26.50:535][  0]SourceControl: Source control is disabled
+[2020.03.04-15.26.50:538][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2020.03.04-15.26.50:549][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.03.04-15.26.50:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.03.04-15.26.50:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.03.04-15.26.50:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.03.04-15.26.50:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.03.04-15.26.50:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.03.04-15.26.50:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.03.04-15.26.50:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.03.04-15.26.50:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.03.04-15.26.50:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.03.04-15.26.50:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.03.04-15.26.50:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.03.04-15.26.50:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.03.04-15.26.50:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.03.04-15.26.50:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.03.04-15.26.50:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.03.04-15.26.50:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.03.04-15.26.50:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.03.04-15.26.50:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Fire01.uasset"
+[2020.03.04-15.26.50:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.03.04-15.26.50:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.03.04-15.26.50:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.03.04-15.26.50:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Light01.uasset"
+[2020.03.04-15.26.50:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.03.04-15.26.50:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Light02.uasset"
+[2020.03.04-15.26.50:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.03.04-15.26.50:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.03.04-15.26.51:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.03.04-15.26.51:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.03.04-15.26.51:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.03.04-15.26.51:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.03.04-15.26.51:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.03.04-15.26.51:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.03.04-15.26.51:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.03.04-15.26.51:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Steam01.uasset"
+[2020.03.04-15.26.51:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.03.04-15.26.51:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.03.04-15.26.51:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.03.04-15.26.51:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.03.04-15.26.51:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.03.04-15.26.51:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.03.04-15.26.51:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.03.04-15.26.51:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.03.04-15.26.51:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.03.04-15.26.51:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.03.04-15.26.51:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.03.04-15.26.51:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.03.04-15.26.51:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.03.04-15.26.51:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.03.04-15.26.51:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.03.04-15.26.51:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.03.04-15.26.51:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.03.04-15.26.52:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.03.04-15.26.52:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.03.04-15.26.52:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.03.04-15.26.52:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.03.04-15.26.52:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.03.04-15.26.52:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Maps/StarterMap.umap"
+[2020.03.04-15.26.52:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.03.04-15.26.52:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.03.04-15.26.52:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.03.04-15.26.52:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.03.04-15.26.52:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.03.04-15.26.52:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.03.04-15.26.52:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.03.04-15.26.52:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.03.04-15.26.52:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.03.04-15.26.52:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.03.04-15.26.52:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.03.04-15.26.52:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.03.04-15.26.52:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.03.04-15.26.52:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.03.04-15.26.52:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.03.04-15.26.52:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.03.04-15.26.52:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.03.04-15.26.52:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.03.04-15.26.52:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.03.04-15.26.52:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.03.04-15.26.52:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.03.04-15.26.52:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.03.04-15.26.52:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.03.04-15.26.52:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.03.04-15.26.52:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.03.04-15.26.52:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.03.04-15.26.52:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.03.04-15.26.52:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.03.04-15.26.52:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.03.04-15.26.52:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.03.04-15.26.52:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.03.04-15.26.52:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.03.04-15.26.52:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.03.04-15.26.52:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.03.04-15.26.52:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.03.04-15.26.52:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.03.04-15.26.52:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.03.04-15.26.53:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.03.04-15.26.53:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.03.04-15.26.53:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.03.04-15.26.53:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.03.04-15.26.53:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.03.04-15.26.53:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.03.04-15.26.53:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.03.04-15.26.53:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.03.04-15.26.53:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.03.04-15.26.53:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.03.04-15.26.53:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.03.04-15.26.53:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.03.04-15.26.53:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.03.04-15.26.53:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.03.04-15.26.53:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.03.04-15.26.53:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.03.04-15.26.53:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.03.04-15.26.53:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.03.04-15.26.53:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.03.04-15.26.53:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.03.04-15.26.53:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.03.04-15.26.53:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.03.04-15.26.53:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.03.04-15.26.53:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.03.04-15.26.53:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.03.04-15.26.53:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.03.04-15.26.53:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.03.04-15.26.53:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.03.04-15.26.53:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Door.uasset"
+[2020.03.04-15.26.53:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.03.04-15.26.53:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.03.04-15.26.53:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.03.04-15.26.53:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.03.04-15.26.53:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.03.04-15.26.53:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.03.04-15.26.53:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.03.04-15.26.53:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.03.04-15.26.53:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.03.04-15.26.53:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.03.04-15.26.53:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.03.04-15.26.53:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.03.04-15.26.53:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.03.04-15.26.53:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.03.04-15.26.53:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.03.04-15.26.53:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.03.04-15.26.53:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.03.04-15.26.53:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.03.04-15.26.53:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.03.04-15.26.53:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.03.04-15.26.53:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.03.04-15.26.53:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.03.04-15.26.53:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.03.04-15.26.53:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.03.04-15.26.53:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.03.04-15.26.53:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.03.04-15.26.53:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.03.04-15.26.53:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.03.04-15.26.53:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.03.04-15.26.53:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.03.04-15.26.53:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.03.04-15.26.54:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.03.04-15.26.54:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.03.04-15.26.54:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.03.04-15.26.54:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.03.04-15.26.54:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.03.04-15.26.54:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.03.04-15.26.54:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.03.04-15.26.54:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.03.04-15.26.54:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.03.04-15.26.54:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.03.04-15.26.54:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.03.04-15.26.54:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.03.04-15.26.54:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.03.04-15.26.54:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.03.04-15.26.54:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.03.04-15.26.54:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.03.04-15.26.54:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.03.04-15.26.54:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.03.04-15.26.54:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.03.04-15.26.55:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.03.04-15.26.55:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.03.04-15.26.56:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.03.04-15.26.56:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.03.04-15.26.56:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.03.04-15.26.56:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.03.04-15.26.56:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.03.04-15.26.56:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.03.04-15.26.56:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.03.04-15.26.56:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.03.04-15.26.56:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.03.04-15.26.56:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.03.04-15.26.56:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.03.04-15.26.56:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.03.04-15.26.56:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.03.04-15.26.57:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.03.04-15.26.57:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.03.04-15.26.57:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.03.04-15.26.57:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.03.04-15.26.57:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.03.04-15.26.57:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.03.04-15.26.57:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.03.04-15.26.57:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.03.04-15.26.57:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.03.04-15.26.58:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.03.04-15.26.58:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.03.04-15.26.58:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.03.04-15.26.58:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.03.04-15.26.58:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.03.04-15.26.58:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.03.04-15.26.58:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.03.04-15.26.58:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.03.04-15.26.58:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.03.04-15.26.59:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.03.04-15.26.59:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.03.04-15.26.59:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.03.04-15.26.59:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.03.04-15.26.59:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.03.04-15.26.59:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.03.04-15.26.59:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.03.04-15.26.59:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.03.04-15.26.59:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.03.04-15.26.59:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.03.04-15.26.59:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.03.04-15.26.59:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.03.04-15.27.00:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.03.04-15.27.00:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.03.04-15.27.01:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.03.04-15.27.01:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.03.04-15.27.01:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.03.04-15.27.01:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.03.04-15.27.01:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.03.04-15.27.01:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.03.04-15.27.01:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.03.04-15.27.01:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.03.04-15.27.02:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.03.04-15.27.02:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.03.04-15.27.02:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.03.04-15.27.02:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.03.04-15.27.02:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.03.04-15.27.02:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.03.04-15.27.02:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.03.04-15.27.02:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.03.04-15.27.03:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.03.04-15.27.03:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.03.04-15.27.03:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.03.04-15.27.03:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.03.04-15.27.03:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.03.04-15.27.03:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.03.04-15.27.04:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.03.04-15.27.04:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.03.04-15.27.04:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.03.04-15.27.04:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.03.04-15.27.04:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.03.04-15.27.04:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.03.04-15.27.04:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.03.04-15.27.04:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.03.04-15.27.04:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.03.04-15.27.04:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.03.04-15.27.04:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.03.04-15.27.04:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.03.04-15.27.04:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.03.04-15.27.04:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.03.04-15.27.04:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.03.04-15.27.04:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.03.04-15.27.04:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.03.04-15.27.04:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.03.04-15.27.04:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.03.04-15.27.04:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.03.04-15.27.04:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.03.04-15.27.04:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.03.04-15.27.04:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.03.04-15.27.04:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.03.04-15.27.05:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.03.04-15.27.05:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.03.04-15.27.05:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.03.04-15.27.05:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.03.04-15.27.06:228][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.03.04-15.27.06:230][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.03.04-15.27.06:325][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.03.04-15.27.06:416][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.03.04-15.27.06:503][  0]LogSavePackage: Save=21.23ms
+[2020.03.04-15.27.06:503][  0]LogSavePackage: Moving 'E:/unreal/BloodOath2/Bloodoath2/Saved/Floor_400x400BD37C53142FA324AC4474693FA7F2D19.tmp' to 'E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.03.04-15.27.06:589][  0]LogSavePackage: Display: Finished SavePackage E:/unreal/BloodOath2/Bloodoath2/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2020.03.04-15.27.06:590][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.03.04-15.27.06:622][  0]Cmd: MAP LOAD FILE="E:/unreal/BloodOath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.04-15.27.06:622][  0]LightingResults: New page: Lighting Build
+[2020.03.04-15.27.06:625][  0]MapCheck: New page: Map Check
+[2020.03.04-15.27.06:625][  0]LightingResults: New page: Lighting Build
+[2020.03.04-15.27.06:678][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023461069b00, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2020.03.04-15.27.06:694][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023461069b00, Size=64
+[2020.03.04-15.27.06:694][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023461069a40, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2020.03.04-15.27.06:704][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023460c08cc0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2020.03.04-15.27.06:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000234617711c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2020.03.04-15.27.06:752][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000234617711c0, Size=296
+[2020.03.04-15.27.06:752][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000234617711c0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2020.03.04-15.27.06:759][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002346183ce00, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2020.03.04-15.27.07:118][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [21.959999ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.04-15.27.07:130][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-15.27.07:156][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.04-15.27.07:173][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023461069a40, Size=64
+[2020.03.04-15.27.07:173][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000234617711c0, Size=296
+[2020.03.04-15.27.07:175][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.04-15.27.07:268][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.945ms to complete.
+[2020.03.04-15.27.07:268][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.647
+[2020.03.04-15.27.07:428][  0]LogCollectionManager: Loaded 0 collections in 0.002566 seconds
+[2020.03.04-15.27.07:501][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/BloodOath2/Bloodoath2/Saved/Collections/' took 0.01s
+[2020.03.04-15.27.07:501][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/BloodOath2/Bloodoath2/Content/Developers/anthony/Collections/' took 0.01s
+[2020.03.04-15.27.07:501][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/BloodOath2/Bloodoath2/Content/Collections/' took 0.01s
+[2020.03.04-15.27.07:501][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.04-15.27.07:520][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2452 classes and 558 folders.
+[2020.03.04-15.27.07:535][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.04-15.27.07:593][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.04-15.27.07:717][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.04-15.27.07:892][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.04-15.27.07:895][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.04-15.27.07:907][  0]LogSlate: Took 0.009267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.04-15.27.08:017][  0]LogRenderer: Reallocating scene render targets to support 1140x964 Format 10 NumSamples 1 (Frame:1).
+[2020.03.04-15.27.08:253][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.04-15.27.08:253][  0]LogLoad: (Engine Initialization) Total time: 33.76 seconds
+[2020.03.04-15.27.08:253][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.04-15.27.08:441][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.04-15.27.08:493][  1]LogAssetRegistry: Asset discovery search completed in 27.1862 seconds
+[2020.03.04-15.27.08:496][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.04-15.27.08:496][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2020.03.04-15.28.10:086][487]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.04-15.28.10:090][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-15.28.10:518][487]LogSavePackage: Save=255.22ms
+[2020.03.04-15.28.10:518][487]LogSavePackage: Moving 'E:/unreal/BloodOath2/Bloodoath2/Saved/ThirdPersonExampleMap5D67395E41FD7B2993E6BCACAAAB32CE.tmp' to 'E:/unreal/BloodOath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.04-15.28.10:658][487]LogSavePackage: Display: Finished SavePackage E:/unreal/BloodOath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2020.03.04-15.28.10:734][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="E:/unreal/BloodOath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.03.04-15.28.11:002][487]LogSavePackage: Save=205.01ms
+[2020.03.04-15.28.11:002][487]LogSavePackage: Moving 'E:/unreal/BloodOath2/Bloodoath2/Saved/ThirdPersonExampleMap_BuiltData059414EE45E063E006EA77A47A077875.tmp' to 'E:/unreal/BloodOath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.04-15.28.11:005][487]LogSavePackage: Display: Finished SavePackage E:/unreal/BloodOath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2020.03.04-15.28.13:392][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-15.28.14:593][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-15.28.18:125][853]LogSourceControl: Warning: 'E:/unreal/BloodOath2/Bloodoath2/' is not part of a Git repository
+[2020.03.04-15.28.31:035][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.04-15.29.12:002][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-15.29.14:617][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.04-15.29.16:772][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.04-15.29.22:180][256]Cmd: SELECT NONE
+[2020.03.04-15.29.22:814][294]Cmd: SELECT NONE
+[2020.03.04-15.29.24:580][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-15.29.24:791][403]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.04-15.29.24:797][403]LogSlate: Window 'Bloodoath2 - Unreal Editor' being destroyed
+[2020.03.04-15.29.24:799][403]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.04-15.29.25:074][404]Cmd: QUIT_EDITOR
+[2020.03.04-15.29.25:111][404]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.04-15.29.25:111][404]LogExit: Preparing to exit.
+[2020.03.04-15.29.25:768][404]LogExit: Editor shut down
+[2020.03.04-15.29.25:775][404]LogExit: Transaction tracking system shut down
+[2020.03.04-15.29.25:776][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023460c08cc0, Size=72
+[2020.03.04-15.29.25:777][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002346183ce00, Size=296
+[2020.03.04-15.29.26:036][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.03.04-15.29.26:037][404]LogDirectoryWatcher: A directory notification for 'E:/unreal/BloodOath2/Bloodoath2/Content/' was aborted.
+[2020.03.04-15.29.26:037][404]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2020.03.04-15.29.26:037][404]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2020.03.04-15.29.26:037][404]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.03.04-15.29.26:037][404]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.03.04-15.29.26:037][404]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.03.04-15.29.26:037][404]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.03.04-15.29.26:139][404]LogExit: Object subsystem successfully closed.
+[2020.03.04-15.29.26:177][404]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.04-15.29.26:188][404]LogD3D11RHI: Shutdown
+[2020.03.04-15.29.26:188][404]LogD3D11RHI: CleanupD3DDevice
+[2020.03.04-15.29.26:192][404]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.04-15.29.26:233][404]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2020.03.04-15.29.26:233][404]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2020.03.04-15.29.26:234][404]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2020.03.04-15.29.26:234][404]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2020.03.04-15.29.26:236][404]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2020.03.04-15.29.26:236][404]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2020.03.04-15.29.26:236][404]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2020.03.04-15.29.26:236][404]LogDirectoryWatcher: A directory notification for 'E:/unreal/BloodOath2/Bloodoath2/Content/Collections/' was aborted.
+[2020.03.04-15.29.26:236][404]LogDirectoryWatcher: A directory notification for 'E:/unreal/BloodOath2/Bloodoath2/Content/Developers/anthony/Collections/' was aborted.
+[2020.03.04-15.29.26:237][404]LogDirectoryWatcher: A directory notification for 'E:/unreal/BloodOath2/Bloodoath2/Saved/Collections/' was aborted.
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2020.03.04-15.29.26:237][404]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2020.03.04-15.29.26:238][404]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2020.03.04-15.29.26:541][404]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2020.03.04-15.29.26:541][404]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2020.03.04-15.29.26:541][404]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2020.03.04-15.29.26:541][404]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2020.03.04-15.29.26:541][404]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2020.03.04-15.29.26:541][404]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2020.03.04-15.29.26:541][404]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2020.03.04-15.29.26:542][404]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2020.03.04-15.29.26:607][404]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2020.03.04-15.29.26:608][404]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2020.03.04-15.29.26:617][404]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2020.03.04-15.29.26:618][404]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2020.03.04-15.29.26:618][404]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2020.03.04-15.29.26:618][404]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2020.03.04-15.29.26:621][404]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2020.03.04-15.29.26:622][404]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2020.03.04-15.29.26:723][404]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2020.03.04-15.29.26:824][404]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2020.03.04-15.29.26:824][404]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2020.03.04-15.29.26:824][404]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2020.03.04-15.29.26:824][404]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2020.03.04-15.29.26:824][404]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2020.03.04-15.29.26:824][404]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2020.03.04-15.29.26:825][404]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2020.03.04-15.29.26:825][404]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2020.03.04-15.29.26:825][404]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2020.03.04-15.29.26:825][404]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2020.03.04-15.29.26:826][404]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2020.03.04-15.29.26:826][404]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2020.03.04-15.29.26:826][404]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2020.03.04-15.29.26:826][404]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2020.03.04-15.29.26:826][404]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2020.03.04-15.29.27:814][404]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2020.03.04-15.29.27:814][404]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2020.03.04-15.29.27:814][404]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2020.03.04-15.29.27:815][404]LogModuleManager: Shutting down and abandoning module Media (233)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.03.04-15.29.27:821][404]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.03.04-15.29.27:822][404]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module Core (178)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2020.03.04-15.29.27:823][404]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2020.03.04-15.29.27:824][404]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2020.03.04-15.29.27:824][404]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2020.03.04-15.29.27:824][404]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.03.04-15.29.27:847][404]LogDerivedDataCache: Shutdown
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2020.03.04-15.29.27:848][404]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.03.04-15.29.27:849][404]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.03.04-15.29.27:849][404]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.04-15.29.27:849][404]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA1EF9D9E-437A-427F-0A93-6AB03D92A8BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=0d4a588d43e0d41ddb8346ba2e053d98%7C094fd40342bb405ba180082e54be1b92%7Cdddb5e22-4d45-478b-8e9b-d64968671824&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.04-15.29.27:854][404]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.03.04-15.29.27:855][404]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.03.04-15.29.27:856][404]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.03.04-15.29.27:865][404]LogExit: Exiting.
+[2020.03.04-15.29.27:878][404]Log file closed, 03/04/20 10:29:27
