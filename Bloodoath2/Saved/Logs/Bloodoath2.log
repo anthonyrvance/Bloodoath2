@@ -1,113 +1,29 @@
-﻿Log file open, 03/04/20 10:41:34
+﻿Log file open, 03/04/20 11:32:28
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: Bloodoath2
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(102698114) SRandInit(102698114).
-LogInit: Read version file with build ID '3944462'
-LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
-LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.282481
-LogD3D11RHI: Aftermath initialized
-LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogStats: Stats thread started at 0.091066
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
@@ -115,22 +31,34 @@ LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin LinearTimecode
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
@@ -144,34 +72,37 @@ LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
-LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
-LogPluginManager: Mounting plugin ImmediatePhysics
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin OculusVR
-LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
-LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
 LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  1.161s to configure plugins.
-LogInit: Using libcurl 7.47.1
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
-LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports SSL with OpenSSL/1.1.1
 LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
 LogInit:  - other features:
 LogInit:      CURL_VERSION_SSL
@@ -181,327 +112,603 @@ LogInit:      CURL_VERSION_ASYNCHDNS
 LogInit:      CURL_VERSION_LARGEFILE
 LogInit:      CURL_VERSION_IDN
 LogInit:  CurlRequestOptions (configurable via config and command line):
-LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
 LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
 LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
-LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am DESKTOP-MLI8V5C (169.254.233.59:0)
-LogInit: Build: ++UE4+Release-4.19-CL-4033788
-LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
-LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
-LogInit: Net CL: 3944462
-LogDevObjectVersion: Number of dev versions registered: 18
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername="SKG Live" -epicuserid=7859f93e4ece40bab744e0291f1a4e67 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
 LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
-LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
-LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
-LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
 LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
 LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
 LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
-LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
 LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
-LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
-LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
-LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
 LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
-LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
-LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
 LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
-LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
-LogInit: Compiled with Visual C++: 19.00.24215.01
-LogInit: Build Configuration: Development
-LogInit: Branch Name: ++UE4+Release-4.19
-LogInit: Command Line: -EpicPortal  -epicusername="the fony" -epicuserid=094fd40342bb405ba180082e54be1b92 -epiclocale=en
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
-LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.000s to delete old logs.
-LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2020.03.04-15.41.35:628][  0]LogInit: Selected Device Profile: [Windows]
-[2020.03.04-15.41.35:628][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.03.04-15.41.35:683][  0]LogInit: Computer: DESKTOP-MLI8V5C
-[2020.03.04-15.41.35:683][  0]LogInit: User: anthony
-[2020.03.04-15.41.35:683][  0]LogInit: CPU Page size=4096, Cores=4
-[2020.03.04-15.41.35:683][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.03.04-15.41.35:684][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2020.03.04-15.41.35:684][  0]LogMemory: Platform Memory Stats for Windows
-[2020.03.04-15.41.35:684][  0]LogMemory: Process Physical Memory: 274.52 MB used, 274.53 MB peak
-[2020.03.04-15.41.35:684][  0]LogMemory: Process Virtual Memory: 264.69 MB used, 264.69 MB peak
-[2020.03.04-15.41.35:684][  0]LogMemory: Physical Memory: 8042.70 MB used,  8220.50 MB free, 16263.20 MB total
-[2020.03.04-15.41.35:684][  0]LogMemory: Virtual Memory: 4778.80 MB used,  8220.50 MB free, 134217728.00 MB total
-[2020.03.04-15.41.35:712][  0]LogInit: Using OS detected language (en-US).
-[2020.03.04-15.41.35:712][  0]LogInit: Using OS detected locale (en-US).
-[2020.03.04-15.41.35:715][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2020.03.04-15.41.36:176][  0]LogStreaming: Display: Took  0.464s to EndInitTextLocalization.
-[2020.03.04-15.41.36:176][  0]LogInit: Setting process to per monitor DPI aware
-[2020.03.04-15.41.36:225][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.03.04-15.41.36:225][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.03.04-15.41.36:453][  0]LogD3D11RHI: D3D11 adapters:
-[2020.03.04-15.41.36:552][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
-[2020.03.04-15.41.36:552][  0]LogD3D11RHI:       16257/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2020.03.04-15.41.36:576][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2020.03.04-15.41.36:576][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2020.03.04-15.41.36:579][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.03.04-15.41.36:579][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.03.04-15.41.36:579][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.03.04-15.41.36:606][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.03.04-15.41.36:606][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
-[2020.03.04-15.41.36:606][  0]LogWindows: EnumDisplayDevices:
-[2020.03.04-15.41.36:606][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2020.03.04-15.41.36:606][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2020.03.04-15.41.36:607][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2020.03.04-15.41.36:607][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:0)
-[2020.03.04-15.41.36:607][  0]LogWindows:    4. 'NVIDIA Quadro P5000' (P:0 D:0)
-[2020.03.04-15.41.36:607][  0]LogWindows:    5. 'NVIDIA Quadro P5000' (P:0 D:0)
-[2020.03.04-15.41.36:607][  0]LogWindows:    6. 'NVIDIA Quadro P5000' (P:0 D:0)
-[2020.03.04-15.41.36:608][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2020.03.04-15.41.36:608][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
-[2020.03.04-15.41.36:608][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2020.03.04-15.41.36:608][  0]LogD3D11RHI:      Driver Date: Unknown
-[2020.03.04-15.41.36:608][  0]LogRHI: Texture pool is 11379 MB (70% of 16257 MB)
-[2020.03.04-15.41.36:660][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2020.03.04-15.41.36:661][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2020.03.04-15.41.36:661][  0]LogD3D11RHI: Async texture creation enabled
-[2020.03.04-15.41.36:674][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2020.03.04-15.41.36:675][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (E:/unreal/Bloodoath2 Project/Bloodoath2/Intermediate/Shaders/WorkingDirectory/12012/).
-[2020.03.04-15.41.36:675][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anthony/AppData/Local/Temp/UnrealShaderWorkingDir/E15DD65840FB6F7568A947B3F2D16F84/'.
-[2020.03.04-15.41.36:907][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2020.03.04-15.41.36:920][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2020.03.04-15.41.36:940][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2020.03.04-15.41.36:954][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2020.03.04-15.41.36:971][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2020.03.04-15.41.36:986][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2020.03.04-15.41.37:001][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2020.03.04-15.41.37:016][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2020.03.04-15.41.37:024][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2020.03.04-15.41.37:039][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2020.03.04-15.41.37:052][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2020.03.04-15.41.37:067][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2020.03.04-15.41.37:083][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2020.03.04-15.41.37:096][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2020.03.04-15.41.37:107][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2020.03.04-15.41.37:133][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2020.03.04-15.41.37:133][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2020.03.04-15.41.37:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2020.03.04-15.41.37:151][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2020.03.04-15.41.37:189][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2020.03.04-15.41.37:201][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2020.03.04-15.41.37:214][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2020.03.04-15.41.37:226][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2020.03.04-15.41.37:239][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2020.03.04-15.41.37:254][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2020.03.04-15.41.37:254][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.03.04-15.41.37:377][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.03.04-15.41.37:378][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.03.04-15.41.37:378][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.03.04-15.41.38:234][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.03.04-15.41.38:305][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/anthony/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2020.03.04-15.41.38:306][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/anthony/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2020.03.04-15.41.38:306][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/unreal/Bloodoath2 Project/Bloodoath2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.03.04-15.41.38:306][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.03.04-15.41.38:306][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/unreal/Bloodoath2 Project/Bloodoath2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.03.04-15.41.38:306][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.03.04-15.41.38:322][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.03.04-15.41.38:334][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anthony/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.03.04-15.41.38:334][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.03.04-15.41.38:334][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.03.04-15.41.38:345][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.03.04-15.41.38:346][  0]LogSlate: Using Freetype 2.6.0
-[2020.03.04-15.41.38:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.03.04-15.41.38:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.03.04-15.41.38:476][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
-[2020.03.04-15.41.38:783][  0]LogInit: Selected Device Profile: [Windows]
-[2020.03.04-15.41.38:940][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2020.03.04-15.41.38:943][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2020.03.04-15.41.38:943][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.03.04-15.41.38:943][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2020.03.04-15.41.38:943][  0]LogMeshReduction: No automatic mesh merging module available
-[2020.03.04-15.41.38:943][  0]LogMeshMerging: No automatic mesh merging module available
-[2020.03.04-15.41.38:978][  0]LogNetVersion: Bloodoath2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2885010656)
-[2020.03.04-15.41.39:939][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.559446 seconds
-[2020.03.04-15.41.39:945][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2020.03.04-15.41.39:945][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2020.03.04-15.41.39:945][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.03.04-15.41.41:627][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.03.04-15.41.41:660][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.03.04-15.41.42:915][  0]SourceControl: Source control is disabled
-[2020.03.04-15.41.43:831][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.03.04-15.41.44:131][  0]LogOcInput: OculusInput pre-init called
-[2020.03.04-15.41.44:245][  0]LogEngine: Initializing Engine...
-[2020.03.04-15.41.44:302][  0]LogHMD: Failed to initialize OpenVR with code 108
-[2020.03.04-15.41.44:303][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2020.03.04-15.41.44:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2020.03.04-15.41.44:553][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.03.04-15.41.44:645][  0]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2020.03.04-15.41.44:672][  0]LogInit: FAudioDevice initialized.
-[2020.03.04-15.41.44:729][  0]LogDerivedDataCache: Saved boot cache 0.06s 74MB C:/Users/anthony/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2020.03.04-15.41.44:744][  0]LogInit: Texture streaming: Enabled
-[2020.03.04-15.41.44:761][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.03.04-15.41.44:782][  0]LogInit: Transaction tracking system initialized
-[2020.03.04-15.41.44:805][  0]BlueprintLog: New page: Editor Load
-[2020.03.04-15.41.44:885][  0]LocalizationService: Localization service is disabled
-[2020.03.04-15.41.45:027][  0]LogConsoleResponse: Display: 
-[2020.03.04-15.41.45:189][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.03.04-15.41.45:189][  0]LogCook: Display: Mobile HDR setting 1
-[2020.03.04-15.41.45:189][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2020.03.04-15.41.45:189][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2020.03.04-15.41.45:189][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2020.03.04-15.41.45:450][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/Bloodoath2 Project/Bloodoath2/Content/' took 0.01s
-[2020.03.04-15.41.45:558][  0]Cmd: MAP LOAD FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.03.04-15.41.45:559][  0]LightingResults: New page: Lighting Build
-[2020.03.04-15.41.45:561][  0]MapCheck: New page: Map Check
-[2020.03.04-15.41.45:561][  0]LightingResults: New page: Lighting Build
-[2020.03.04-15.41.45:611][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f8b037740, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2020.03.04-15.41.45:621][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f8b037740, Size=64
-[2020.03.04-15.41.45:621][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f8b037800, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
-[2020.03.04-15.41.45:629][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f8af92480, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2020.03.04-15.41.45:666][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f8ac6bec0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2020.03.04-15.41.45:671][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f8ac6bec0, Size=296
-[2020.03.04-15.41.45:671][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f8ac6bec0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
-[2020.03.04-15.41.45:678][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f8ac6a700, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2020.03.04-15.41.45:928][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [11.600300ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
-[2020.03.04-15.41.45:969][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2020.03.04-15.41.45:980][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.03.04-15.41.45:990][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f8b037800, Size=64
-[2020.03.04-15.41.45:990][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f8ac6bec0, Size=296
-[2020.03.04-15.41.45:991][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.03.04-15.41.46:053][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.43ms to complete.
-[2020.03.04-15.41.46:053][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.495
-[2020.03.04-15.41.46:147][  0]LogCollectionManager: Loaded 0 collections in 0.001889 seconds
-[2020.03.04-15.41.46:188][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/Bloodoath2 Project/Bloodoath2/Saved/Collections/' took 0.01s
-[2020.03.04-15.41.46:188][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Developers/anthony/Collections/' took 0.01s
-[2020.03.04-15.41.46:188][  0]LogFileCache: Scanning file cache for directory 'E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Collections/' took 0.01s
-[2020.03.04-15.41.46:188][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2020.03.04-15.41.46:198][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2452 classes and 558 folders.
-[2020.03.04-15.41.46:205][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2020.03.04-15.41.46:247][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2020.03.04-15.41.46:323][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2020.03.04-15.41.46:419][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.03.04-15.41.46:423][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.03.04-15.41.46:425][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.03.04-15.41.46:568][  0]LogRenderer: Reallocating scene render targets to support 1140x964 Format 10 NumSamples 1 (Frame:1).
-[2020.03.04-15.41.46:790][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2020.03.04-15.41.46:790][  0]LogLoad: (Engine Initialization) Total time: 14.60 seconds
-[2020.03.04-15.41.46:790][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.03.04-15.41.46:831][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.03.04-15.41.46:884][  1]LogAssetRegistry: Asset discovery search completed in 8.4301 seconds
-[2020.03.04-15.41.46:886][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2020.03.04-15.41.46:886][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
-[2020.03.04-15.42.01:932][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.42.39:042][ 75]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.03.04-15.42.41:811][ 75]LogSlate: Window 'Save Content' being destroyed
-[2020.03.04-15.42.41:981][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AnthonySandbox" FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.03.04-15.42.43:316][ 75]LogSavePackage: Save=10.39ms
-[2020.03.04-15.42.43:316][ 75]LogSavePackage: Moving 'E:/unreal/Bloodoath2 Project/Bloodoath2/Saved/AnthonySandbox05564F8E4AA5EB2A41FD88A1D210286E.tmp' to 'E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySandbox.umap'
-[2020.03.04-15.42.43:468][ 75]LogSavePackage: Display: Finished SavePackage E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySandbox.umap
-[2020.03.04-15.42.43:663][ 75]LogFileHelpers: Saving map 'AnthonySandbox' took 1.748
-[2020.03.04-15.42.43:668][ 75]Cmd: MAP LOAD FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySandbox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.03.04-15.42.43:669][ 75]LightingResults: New page: Lighting Build
-[2020.03.04-15.42.43:670][ 75]LoadErrors: New page: Loading map: AnthonySandbox.umap
-[2020.03.04-15.42.43:674][ 75]MapCheck: New page: Map Check
-[2020.03.04-15.42.43:675][ 75]LightingResults: New page: Lighting Build
-[2020.03.04-15.42.43:732][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.03.04-15.42.43:732][ 75]LogAIModule: Creating AISystem for world AnthonySandbox
-[2020.03.04-15.42.43:772][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.03.04-15.42.43:835][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.677ms to complete.
-[2020.03.04-15.42.43:836][ 75]LogFileHelpers: Loading map 'AnthonySandbox' took 0.170
-[2020.03.04-15.42.51:713][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.42.56:437][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.42.57:921][909]LogActorFactory: Actor Factory created Cube
-[2020.03.04-15.42.58:562][946]LogActorFactory: Actor Factory created Cube
-[2020.03.04-15.43.00:167][ 38]LogSlate: Took 0.007713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2020.03.04-15.43.06:622][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.43.24:452][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.43.30:376][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.43.30:502][836]LogActorFactory: Actor Factory created Cube
-[2020.03.04-15.43.33:656][ 22]LogActorFactory: Actor Factory created Cube
-[2020.03.04-15.43.44:944][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.43.54:236][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2020.03.04-15.44.03:624][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.44.49:196][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.45.00:263][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.45.06:169][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
-[2020.03.04-15.45.14:391][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.03.04-15.45.14:488][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.03.04-15.45.14:514][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AnthonySandbox" FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.03.04-15.45.14:599][  1]LogSavePackage: Save=14.12ms
-[2020.03.04-15.45.14:599][  1]LogSavePackage: Moving 'E:/unreal/Bloodoath2 Project/Bloodoath2/Saved/AnthonySandboxBFE3E5A64274431D55509A81C91D346E.tmp' to 'E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySandbox.umap'
-[2020.03.04-15.45.14:671][  1]LogSavePackage: Display: Finished SavePackage E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySandbox.umap
-[2020.03.04-15.45.18:539][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.45.18:595][230]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.03.04-15.46.08:189][ 34]LogSlate: Window 'Delete Assets' being destroyed
-[2020.03.04-15.46.08:211][ 34]LightingResults: New page: Lighting Build
-[2020.03.04-15.46.08:219][ 34]MapCheck: New page: Map Check
-[2020.03.04-15.46.08:219][ 34]LightingResults: New page: Lighting Build
-[2020.03.04-15.46.08:230][ 34]LogAIModule: Creating AISystem for world Untitled
-[2020.03.04-15.46.08:303][ 34]LoadErrors: New page: New Map
-[2020.03.04-15.46.08:311][ 34]LogAIModule: Creating AISystem for world AnthonySandbox
-[2020.03.04-15.46.09:545][ 34]SourceControl: rm 'Bloodoath2/Content/Levels/AnthonySandbox.umap'
-[2020.03.04-15.46.24:887][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f92f2cb80, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
-[2020.03.04-15.46.24:892][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f92f2cb80, Size=88
-[2020.03.04-15.46.24:892][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f92f2cb80, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Transient.REINST_Landscape_Painting_Mode_C_10:ExecuteUbergraph_Landscape_Painting_Mode
-[2020.03.04-15.46.24:896][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb7533330, Size=80, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
-[2020.03.04-15.46.24:905][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fab084ca0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
-[2020.03.04-15.46.24:908][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fab084ca0, Size=88
-[2020.03.04-15.46.24:908][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fab084ca0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_12:ExecuteUbergraph_Landscape_Sculpt_Mode
-[2020.03.04-15.46.24:911][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb7531f30, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
-[2020.03.04-15.46.24:924][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb752b880, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
-[2020.03.04-15.46.24:931][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fb752b880, Size=64
-[2020.03.04-15.46.24:931][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb752a640, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Transient.REINST_CreatingSigningCertAndProvisionTutorial_C_14:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
-[2020.03.04-15.46.24:934][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb7528f40, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
-[2020.03.04-15.46.24:981][947]LogSlate: Window 'Tutorials' being destroyed
-[2020.03.04-15.46.25:009][947]LogSlate: Window 'Tutorials' being destroyed
-[2020.03.04-15.46.38:541][752]LogEditorViewport: Clicking Background
-[2020.03.04-15.46.40:259][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.46.56:430][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0224bfa28, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
-[2020.03.04-15.46.56:439][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0224bfa28, Size=4
-[2020.03.04-15.46.56:439][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0224bfa28, Size=4, Default__StarterMap_C Function /Engine/Transient.REINST_StarterMap_C_30:ExecuteUbergraph_StarterMap
-[2020.03.04-15.46.56:440][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0224bf978, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
-[2020.03.04-15.46.57:135][786]LogAIModule: Creating AISystem for world StarterMap
-[2020.03.04-15.46.57:190][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fb752a640, Size=64
-[2020.03.04-15.46.57:190][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fab084ca0, Size=88
-[2020.03.04-15.46.57:190][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f92f2cb80, Size=88
-[2020.03.04-15.46.57:190][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0224bfa28, Size=4
-[2020.03.04-15.46.57:193][786]Cmd: MAP LOAD FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.03.04-15.46.57:193][786]LightingResults: New page: Lighting Build
-[2020.03.04-15.46.57:194][786]LoadErrors: New page: Loading map: StarterMap.umap
-[2020.03.04-15.46.57:195][786]MapCheck: New page: Map Check
-[2020.03.04-15.46.57:195][786]LightingResults: New page: Lighting Build
-[2020.03.04-15.46.57:408][786]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.03.04-15.46.57:451][786]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.03.04-15.46.57:552][786]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.244ms to complete.
-[2020.03.04-15.46.57:552][786]LogFileHelpers: Loading map 'StarterMap' took 0.360
-[2020.03.04-15.47.18:785][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.03.04-15.47.41:537][368]Cmd: MAP LOAD FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.03.04-15.47.41:570][368]LightingResults: New page: Lighting Build
-[2020.03.04-15.47.41:571][368]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
-[2020.03.04-15.47.41:574][368]MapCheck: New page: Map Check
-[2020.03.04-15.47.41:574][368]LightingResults: New page: Lighting Build
-[2020.03.04-15.47.41:586][368]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0224bf978, Size=4
-[2020.03.04-15.47.41:658][368]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2020.03.04-15.47.41:804][368]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.03.04-15.47.41:848][368]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.03.04-15.47.41:941][368]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.835ms to complete.
-[2020.03.04-15.47.41:941][368]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.406
-[2020.03.04-15.47.41:944][368]LogSlate: Window 'Open Level' being destroyed
-[2020.03.04-15.47.59:252][363]LogAIModule: Creating AISystem for world AnthonySB
-[2020.03.04-15.47.59:493][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/AnthonySB" FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/ThirdPersonBP/Maps/AnthonySB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.03.04-15.47.59:655][363]LogSavePackage: Save=132.15ms
-[2020.03.04-15.47.59:655][363]LogSavePackage: Moving 'E:/unreal/Bloodoath2 Project/Bloodoath2/Saved/AnthonySBB6086A8041D5AA142A67079849BE4263.tmp' to 'E:/unreal/Bloodoath2 Project/Bloodoath2/Content/ThirdPersonBP/Maps/AnthonySB.umap'
-[2020.03.04-15.47.59:808][363]LogSavePackage: Display: Finished SavePackage E:/unreal/Bloodoath2 Project/Bloodoath2/Content/ThirdPersonBP/Maps/AnthonySB.umap
-[2020.03.04-15.48.00:955][363]LogFileHelpers: Saving map 'AnthonySB' took 1.577
-[2020.03.04-15.49.29:872][424]LogMetaData: Removing '/Game/Levels/AnthonySB.SKEL_AnthonySB_C' ref from Metadata '/Game/ThirdPersonBP/Maps/AnthonySB.PackageMetaData'
-[2020.03.04-15.49.29:872][424]LogMetaData: Removing '/Game/Levels/AnthonySB.AnthonySB_C' ref from Metadata '/Game/ThirdPersonBP/Maps/AnthonySB.PackageMetaData'
-[2020.03.04-15.49.29:996][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AnthonySB" FILE="E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.03.04-15.49.30:305][424]LogSavePackage: Save=270.63ms
-[2020.03.04-15.49.30:305][424]LogSavePackage: Moving 'E:/unreal/Bloodoath2 Project/Bloodoath2/Saved/AnthonySBDFDCA11249AB82230C8CCE9290EA997A.tmp' to 'E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySB.umap'
-[2020.03.04-15.49.30:466][424]LogSavePackage: Display: Finished SavePackage E:/unreal/Bloodoath2 Project/Bloodoath2/Content/Levels/AnthonySB.umap
-[2020.03.04-15.49.32:249][424]LogFileHelpers: Saving map 'AnthonySB' took 2.347
-[2020.03.04-15.49.32:841][424]SourceControl: rm 'Bloodoath2/Content/ThirdPersonBP/Maps/AnthonySB.umap'
-[2020.03.04-15.49.32:986][429]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
-[2020.03.04-15.49.35:210][555]LogSlate: Window 'Content Browser' being destroyed
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Engine.ini]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Engine.ini]
+[2020.03.04-16.32.28:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Engine.ini]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Engine.ini]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.04-16.32.28:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Engine.ini]
+[2020.03.04-16.32.28:778][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Engine.ini]
+[2020.03.04-16.32.28:780][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.04-16.32.28:780][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.04-16.32.28:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.04-16.32.28:782][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.04-16.32.28:782][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.04-16.32.28:782][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.04-16.32.28:784][  0]LogHAL: Display: Platform has ~ 16 GB [17053212672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.04-16.32.28:784][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.04-16.32.28:785][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.04-16.32.28:785][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.04-16.32.28:786][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Config/Windows/Engine.ini]
+[2020.03.04-16.32.28:786][  0]LogInit: Computer: DESKTOP-PJ465OH
+[2020.03.04-16.32.28:786][  0]LogInit: User: SKG
+[2020.03.04-16.32.28:787][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.04-16.32.28:787][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.04-16.32.28:787][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.04-16.32.28:787][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.04-16.32.28:787][  0]LogMemory: Process Physical Memory: 104.17 MB used, 104.17 MB peak
+[2020.03.04-16.32.28:787][  0]LogMemory: Process Virtual Memory: 100.59 MB used, 100.59 MB peak
+[2020.03.04-16.32.28:787][  0]LogMemory: Physical Memory: 9433.07 MB used,  6830.14 MB free, 16263.21 MB total
+[2020.03.04-16.32.28:787][  0]LogMemory: Virtual Memory: 5137.52 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.03.04-16.32.28:793][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.04-16.32.28:808][  0]LogInit: Using OS detected language (en-US).
+[2020.03.04-16.32.28:808][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.04-16.32.28:809][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.04-16.32.29:002][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.04-16.32.29:050][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.04-16.32.29:050][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.04-16.32.29:297][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.03.04-16.32.29:297][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.04-16.32.29:297][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.04-16.32.29:297][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.04-16.32.29:389][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
+[2020.03.04-16.32.29:389][  0]LogD3D11RHI:       16257/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.04-16.32.29:408][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.04-16.32.29:408][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.04-16.32.29:410][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.04-16.32.29:410][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.04-16.32.29:410][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.04-16.32.29:457][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.04-16.32.29:457][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.04-16.32.29:457][  0]LogWindows: EnumDisplayDevices:
+[2020.03.04-16.32.29:457][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.04-16.32.29:458][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.04-16.32.29:458][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.04-16.32.29:458][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-16.32.29:458][  0]LogWindows:    4. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-16.32.29:459][  0]LogWindows:    5. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-16.32.29:459][  0]LogWindows:    6. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.03.04-16.32.29:459][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.03.04-16.32.29:459][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
+[2020.03.04-16.32.29:459][  0]LogD3D11RHI:   Driver Version: 425.53 (internal:25.21.14.2553, unified:425.53)
+[2020.03.04-16.32.29:459][  0]LogD3D11RHI:      Driver Date: 5-6-2019
+[2020.03.04-16.32.29:459][  0]LogRHI: Texture pool is 11379 MB (70% of 16257 MB)
+[2020.03.04-16.32.29:507][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.04-16.32.29:507][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.04-16.32.29:521][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.04-16.32.29:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.04-16.32.29:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.04-16.32.29:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.04-16.32.29:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.04-16.32.29:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.04-16.32.29:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.04-16.32.29:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.04-16.32.30:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.04-16.32.30:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.04-16.32.30:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.04-16.32.30:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.04-16.32.30:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.04-16.32.30:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.04-16.32.30:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.04-16.32.30:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.04-16.32.30:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.04-16.32.30:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.04-16.32.30:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.04-16.32.30:098][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.04-16.32.30:101][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.04-16.32.30:127][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/Intermediate/Shaders/WorkingDirectory/1152/).
+[2020.03.04-16.32.30:127][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SKG/AppData/Local/Temp/UnrealShaderWorkingDir/E77309AD4AB777BF9A0B63BD2EC0093C/'.
+[2020.03.04-16.32.30:128][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.04-16.32.30:128][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.04-16.32.30:128][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.04-16.32.30:901][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.04-16.32.30:961][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/SKG/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.04-16.32.30:961][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SKG/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.04-16.32.30:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.04-16.32.30:962][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.04-16.32.30:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.04-16.32.30:962][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.04-16.32.30:972][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.04-16.32.30:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.04-16.32.30:972][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.04-16.32.30:974][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SKG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.04-16.32.30:974][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.04-16.32.30:974][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.04-16.32.31:002][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.04-16.32.31:004][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.04-16.32.31:005][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.04-16.32.31:057][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.03.04-16.32.31:409][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.04-16.32.31:574][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.04-16.32.31:574][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.04-16.32.31:574][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.04-16.32.31:574][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.04-16.32.31:575][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.04-16.32.31:587][  0]LogNetVersion: Bloodoath2 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 887040450)
+[2020.03.04-16.32.31:642][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Left_Trigger.
+[2020.03.04-16.32.31:642][  0]LogInput: Warning: Action ResetVR uses deprecated key MotionController_Left_Grip1.
+[2020.03.04-16.32.31:642][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Right_Trigger.
+[2020.03.04-16.32.31:642][  0]LogInput: Warning: Axis MoveForward uses deprecated key MotionController_Left_Thumbstick_Y.
+[2020.03.04-16.32.31:642][  0]LogInput: Warning: Axis MoveRight uses deprecated key MotionController_Left_Thumbstick_X.
+[2020.03.04-16.32.31:642][  0]LogInput: Warning: Axis TurnRate uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.03.04-16.32.32:740][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047464 seconds
+[2020.03.04-16.32.32:749][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.03.04-16.32.32:749][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.03.04-16.32.32:749][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.04-16.32.33:175][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.04-16.32.33:177][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.04-16.32.33:237][  0]SourceControl: Source control is disabled
+[2020.03.04-16.32.33:238][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:238][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.03.04-16.32.33:238][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:238][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:239][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:241][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.03.04-16.32.33:242][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:242][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:243][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:244][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.03.04-16.32.33:245][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:245][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.03.04-16.32.33:245][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.33:245][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.03.04-16.32.33:326][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.04-16.32.33:337][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.04-16.32.33:337][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.04-16.32.33:439][  0]LogOcInput: OculusInput pre-init called
+[2020.03.04-16.32.33:448][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.04-16.32.33:449][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.04-16.32.33:527][  0]LogEngine: Initializing Engine...
+[2020.03.04-16.32.38:871][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.03.04-16.32.38:872][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.04-16.32.39:270][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.04-16.32.39:277][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.04-16.32.39:367][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.04-16.32.39:367][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.04-16.32.39:367][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.04-16.32.39:367][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.04-16.32.39:367][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.04-16.32.39:368][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.04-16.32.39:368][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.04-16.32.39:368][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.04-16.32.39:368][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.04-16.32.39:368][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: Name: Headphones (Conexant ISST Audio)
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.04-16.32.39:394][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.04-16.32.39:418][  0]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2020.03.04-16.32.39:428][  0]LogInit: FAudioDevice initialized.
+[2020.03.04-16.32.39:428][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.04-16.32.39:496][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/SKG/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.04-16.32.39:503][  0]LogInit: Texture streaming: Enabled
+[2020.03.04-16.32.39:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.04-16.32.39:519][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.04-16.32.39:521][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.04-16.32.39:587][  0]LogInit: Transaction tracking system initialized
+[2020.03.04-16.32.39:598][  0]BlueprintLog: New page: Editor Load
+[2020.03.04-16.32.39:642][  0]LocalizationService: Localization service is disabled
+[2020.03.04-16.32.40:162][  0]LogFileCache: Scanning file cache for directory 'C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Content/' took 0.01s
+[2020.03.04-16.32.40:162][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.04-16.32.40:162][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.04-16.32.40:885][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.32.40:886][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.03.04-16.32.40:886][  0]Cmd: MAP LOAD FILE="../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.04-16.32.40:887][  0]LightingResults: New page: Lighting Build
+[2020.03.04-16.32.40:887][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-16.32.40:888][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-16.32.40:888][  0]MapCheck: New page: Map Check
+[2020.03.04-16.32.40:888][  0]LightingResults: New page: Lighting Build
+[2020.03.04-16.32.40:917][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.04-16.32.41:133][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.03.04-16.32.41:203][  0]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.04-16.32.41:268][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-16.32.41:281][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.04-16.32.41:311][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.03.04-16.32.41:312][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.04-16.32.41:312][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2020.03.04-16.32.41:312][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.426
+[2020.03.04-16.32.41:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-16.32.41:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-16.32.41:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-16.32.41:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-16.32.41:489][  0]LogCollectionManager: Loaded 0 collections in 0.002473 seconds
+[2020.03.04-16.32.41:506][  0]LogFileCache: Scanning file cache for directory 'C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/Collections/' took 0.00s
+[2020.03.04-16.32.41:506][  0]LogFileCache: Scanning file cache for directory 'C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Content/Developers/SKG/Collections/' took 0.00s
+[2020.03.04-16.32.41:506][  0]LogFileCache: Scanning file cache for directory 'C:/School/Unreal Engine/Bloodoath2/Bloodoath2/Content/Collections/' took 0.00s
+[2020.03.04-16.32.41:506][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3015 classes and 717 folders.
+[2020.03.04-16.32.41:509][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.04-16.32.41:573][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.04-16.32.41:578][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.04-16.32.41:646][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.04-16.32.41:649][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.04-16.32.41:658][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.04-16.32.41:759][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2020.03.04-16.32.41:954][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.04-16.32.41:954][  0]LogLoad: (Engine Initialization) Total time: 14.56 seconds
+[2020.03.04-16.32.41:954][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.04-16.32.42:021][  0]LogAssetRegistry: Asset discovery search completed in 10.9646 seconds
+[2020.03.04-16.32.42:024][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.03.04-16.32.42:026][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.04-16.32.42:051][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.04-16.33.33:325][ 43]LogActorFactory: Actor Factory created Cube
+[2020.03.04-16.33.33:832][ 70]LogActorFactory: Actor Factory created Cube
+[2020.03.04-16.33.52:573][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.03.04-16.33.53:232][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.04-16.34.05:684][932]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.04-16.34.05:734][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.04-16.34.05:912][932]LogSavePackage: Moving '../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/ThirdPersonExampleMapC39FD10049834042D4A7BE97CDF8CA56.tmp' to '../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.04-16.34.06:165][932]LogSavePackage: Moving '../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/Saved/ThirdPersonExampleMap_BuiltData8C187CC8450A72D283EAB0A7081BD7F6.tmp' to '../../../../../../School/Unreal Engine/Bloodoath2/Bloodoath2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.04-16.34.06:179][932]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.04-16.34.06:179][932]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.04-16.34.06:179][932]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.03.04-16.34.13:469][358]SourceControl: Source control is disabled
+[2020.03.04-16.34.16:512][531]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.34.16:512][531]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.03.04-16.34.16:512][531]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.34.16:512][531]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.03.04-16.34.16:512][531]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.34.16:512][531]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.03.04-16.34.16:512][531]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.34.16:513][531]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.03.04-16.34.16:513][531]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.34.16:513][531]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.03.04-16.34.16:513][531]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.34.16:513][531]LogWindows: Warning: URL: C:\Users\SKG\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.03.04-16.34.16:513][531]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.03.04-16.34.16:513][531]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.03.04-16.34.18:706][659]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2020.03.04-16.34.18:706][659]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/ version
+[2020.03.04-16.34.40:475][ 51]SourceControl: Source control is disabled
+[2020.03.04-16.34.41:240][ 95]LogSlate: Window 'Source Control Login' being destroyed
